@@ -6,7 +6,7 @@ Make sure to run the "Dogs vs Cats.ipynb" file first. It's the preprocessing sta
 
 It saves the processed data in pickle files.
 
-Those files and then used in training_modules.py.
+Those files are then used in training_modules.py.
 
 Depending on how the model is modified, the accuracy of the prediction model will change. 
 
